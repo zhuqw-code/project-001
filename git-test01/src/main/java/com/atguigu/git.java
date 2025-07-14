@@ -8,5 +8,6 @@ public class git {
         System.out.println("hello git4!");     // 开启新的分支
         System.out.println("master test!!");
         System.out.println("hot-fix test!!"); // 测试冲突合并
+        System.out.println("pull test!!");
     }
 }
