@@ -9,6 +9,6 @@ public class git {
         System.out.println("master test!!");
         System.out.println("hot-fix test!!"); // 测试冲突合并
         System.out.println("pull test!!");
-        System.out.println("芋xx！！！");     // 测试push
+        System.out.println("y喵喵tzylb，pdzwsp好解压！！！");     // 测试push
     }
 }
