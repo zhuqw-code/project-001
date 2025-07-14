@@ -6,5 +6,6 @@ public class git {
         System.out.println("hello git2!");
         System.out.println("hello git3!");     // 蓝色文件可以直接提交本地库，不用添加暂停区
         System.out.println("hello git4!");     // 开启新的分支
+        System.out.println("hot-fix test!!!"); // 测试冲突合并
     }
 }
